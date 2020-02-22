@@ -5,7 +5,7 @@ Returns text for each element in a recursive list of tags
 
 ##### Installation:  
 
-```cargo install --git https://github.com/p1g30n/skimr```  
+```cargo install --git https://github.com/timepigeon/skimr```  
 
 >Needs the Rust Toolchain available at [https://rustup.rs/]().  
 > Note that ~/.cargo/bin/ must be in your $PATH.
